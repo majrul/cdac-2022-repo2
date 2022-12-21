@@ -7,8 +7,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		Date d = new Date();
-		System.out.println(d);
+		Runtime r = Runtime.getRuntime();
+		System.out.println(r.freeMemory());
 		LocalTime t = LocalTime.now();
 		System.out.println(t);
 	}
