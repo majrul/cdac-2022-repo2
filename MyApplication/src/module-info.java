@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author majrul
+ *
+ */
+module MyApplication {
+}
